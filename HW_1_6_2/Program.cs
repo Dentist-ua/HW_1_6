@@ -32,9 +32,6 @@ namespace HW_1_6_2
                 }
                 Console.WriteLine();
             }
-            
-            
-            
         }
     }
 }
